@@ -19,6 +19,7 @@ we have data which looks like that:
     },
     ...
 """
+
 and it represents current weather on Mars.
 In enum file we have sample of solution that translates string to struct names:
 
